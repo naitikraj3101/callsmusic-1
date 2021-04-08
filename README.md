@@ -1,4 +1,4 @@
-# 🎧 Calls Music 1 — A multi-chat Telegram group call audio streaming bot based on [tgcalls](https://github.com/MarshalX/tgcalls)
+# 🎧 new Calls Music 1 — A multi-chat Telegram group call audio streaming bot based on [tgcalls](https://github.com/MarshalX/tgcalls)
 
 ## ✍️ Requirements
 
